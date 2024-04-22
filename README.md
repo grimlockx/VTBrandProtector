@@ -17,6 +17,9 @@ Make sure to modify the `query_data.json` according to your monitoring needs. If
 python VTBRandProtector.py path_to_json_file.json
 ```
 
+## Further Reading
+- https://www.virustotal.com/getstarted/anti-phishing-anti-fraud-brand-monitoring
+
 ## To Do
 - [ ] Implement postfix connection to send alerts via email.
 - [ ] Implement a database to track alerts and ensure alerts are not duplicated.
