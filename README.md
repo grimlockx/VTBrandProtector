@@ -14,7 +14,7 @@ Make sure to modify the `query_data.json` according to your monitoring needs. If
 
 ## Usage
 ```bash
-python VTBRandProtector.py path_to_json_file.json
+python VTBrandProtector.py path_to_json_file.json
 ```
 
 ## Further Reading
