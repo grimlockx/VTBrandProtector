@@ -18,5 +18,5 @@ python VTBRandProtector.py path_to_json_file.json
 ```
 
 ## To Do
-[] Implement postfix connection to send alerts via email.
-[] Implement a database to track alerts and ensure alerts are not duplicated.
+- [ ] Implement postfix connection to send alerts via email.
+- [ ] Implement a database to track alerts and ensure alerts are not duplicated.
